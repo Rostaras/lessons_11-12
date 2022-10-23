@@ -21,7 +21,7 @@ body {
 	width: 100%;
   z-index: 100;
 }
-.title__text .title-two__text{
+.title__text,.title-two__text{
   color: #1e212c;
   font-weight: 900;
   font-size: 46px;
